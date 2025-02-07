@@ -1,4 +1,4 @@
-# Tic_Tack_Toe in python 
+# Tic_Tac_Toe in python 
 Here's a simple explanation of the code step by step:
 
 **1. Imports:**
